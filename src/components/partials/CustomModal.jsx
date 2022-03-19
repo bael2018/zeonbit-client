@@ -35,13 +35,13 @@ const StyledCustomModal = styled.div`
     }
 
     @media ${props => props.theme.media.medium} {
-        right: 200px;
-        top: 10px;
+        right: 180px;
+        top: 60px;
     }
 
     @media ${props => props.theme.media.small} {
         right: 10px;
-        top: 150px;
+        top: 200px;
     }
 `;
 
